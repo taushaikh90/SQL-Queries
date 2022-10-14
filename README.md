@@ -1,1 +1,1 @@
-# SQL-Queries
+Here you will find SQL projects
